@@ -130,6 +130,6 @@
 |10|Adventure|0.1|
 
 ## Используемые инструменты
-Pandas, matplotlib, numpy, scipy, seaborn
+Pandas, Matplotlib, Numpy, SciPy, Seaborn
 ## Статус проекта
 **Завершен**
