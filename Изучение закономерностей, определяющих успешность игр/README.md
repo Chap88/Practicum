@@ -88,7 +88,7 @@
 
 |Место|Платформа|Жанр|
 |:---:|:-------:|:--:|
-||1Nintendo 3 DS|Role-Playing|
+|1|Nintendo 3 DS|Role-Playing|
 |2|Play Station 3|Action|
 |3|Play Station Vita|Misc|
 |4|Play Station 4|Simulation|
