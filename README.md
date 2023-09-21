@@ -31,3 +31,11 @@ Pandas, Matplotlib, Numpy, SciPy, Seaborn
 **Используемые инструменты**<br>
 Pandas
 
+### [Исследование технологического процесса очистки золота](https://github.com/Chap88/Practicum/tree/fcb4c5230e75a19c45231537f4d7603d89cb5bb9/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0)
+**Задача**<br>
+Подготовить модель для предсказания коэффициента восстановления золота из золотосодержащей руды.
+
+**Используемые инструменты**<br>
+Pandas, Matplotlib, NumPy, Seaborn, Scikit-learn
+
+
