@@ -38,4 +38,11 @@ Pandas
 **Используемые инструменты**<br>
 Pandas, Matplotlib, NumPy, Seaborn, Scikit-learn
 
+### [Классификаиция клиентов телеком компании](https://github.com/Chap88/Practicum/tree/3337ad35bdb0c5cfb879609464253df8fd5e93e5/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)
+**Задача**<br>
+Для оператора мобильной связи необходимо построить модель, которая проанализирует использование услуг клиентами с архивными тарифами и предложт им один из новых тарифов. Метрика модели Accuracy должна быть более 0,75.
+
+**Используемые инструменты**<br>
+Pandas, Matplotlib, NumPy, Scikit-learn
+
 
